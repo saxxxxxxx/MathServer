@@ -125,11 +125,12 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-![image](https://github.com/23000966/MathServer/assets/153983364/4ee8aa0f-db00-4927-b480-d650022b3850)
+![image](https://github.com/23000966/MathServer/assets/153983364/19b40180-7118-4f10-9088-39f202beb72f)
+
 
 
 ## HOMEPAGE:
-![image](https://github.com/23000966/MathServer/assets/153983364/bbfea18a-3467-4da9-ac7f-78988592d992)
+![image](https://github.com/23000966/MathServer/assets/153983364/ee200f2b-b901-40b9-9bbe-e9ca017ca955)
 
 
 ## RESULT:
